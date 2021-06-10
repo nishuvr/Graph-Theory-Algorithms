@@ -1,12 +1,12 @@
 # Graph_Theory_Algorithms
 Graph Theory, Applications and Combinatorics 
 
-Program 1 : Chinese Postman Problem is a variation of Eulerian circuit problem for undirected graphs. An Euler Circuit is a closed walk that covers every edge once starting and ending position is same. Chiniese Postman problem is defined for connected and undirected graph. The problem is to find shortest path or circuity that visits every edge of the graph at least once.
-Source code - chinese.c 
-Input file - chinese_input.txt
-Compiler - gcc compiler with input redirection 
-	   gcc chinese.c 
-	   ./a.out <chinese_input.txt
+Program 1 : Chinese Postman Problem is a variation of Eulerian circuit problem for undirected graphs. An Euler Circuit is a closed walk that covers every edge once starting and ending position is same. Chinese Postman problem is defined for connected and undirected graph. The problem is to find shortest path or circuity that visits every edge of the graph at least once. <br /> 
+Source code - chinese.c  <br /> 
+Input file - chinese_input.txt <br /> 
+Compiler - gcc compiler with input redirection <br /> 
+	   gcc chinese.c <br />  
+	   ./a.out <chinese_input.txt <br /> 
 
 Program 2 : Welsh Powell is used to implement graph labeling; it is an assignment of labels traditionally called "colors" to elements of a graph subject to certain constraints.
 Source code - welsh.c 
