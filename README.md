@@ -5,8 +5,8 @@ Program 1 : Chinese Postman Problem is a variation of Eulerian circuit problem f
 Source code - chinese.c  <br /> 
 Input file - chinese_input.txt <br /> 
 Compiler - gcc compiler with input redirection <br /> 
-	   gcc chinese.c <br />  
-	   ./a.out <chinese_input.txt <br /> 
+	   gcc chinese.c   
+	   ./a.out <chinese_input.txt 
 
 Program 2 : Welsh Powell is used to implement graph labeling; it is an assignment of labels traditionally called "colors" to elements of a graph subject to certain constraints.
 Source code - welsh.c 
